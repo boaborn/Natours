@@ -19,5 +19,7 @@
   "devDependencies": {
     "node-sass": "^4.9.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
 }
